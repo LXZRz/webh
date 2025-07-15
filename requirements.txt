@@ -1,6 +1,6 @@
 fastapi
-jinja2
-pydantic
+uvicorn
 sqlalchemy
 requests
-uvicorn
+slowapi
+jinja2
